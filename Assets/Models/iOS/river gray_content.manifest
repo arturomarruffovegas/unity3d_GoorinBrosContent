@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3965283015
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc637eaaffbe9ae7d644fa19b436b4e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 258a471ef50d957f4bdf0c04eadc44de
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: bb945db2ba049c3448771d5650f9e40a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Hats/river gray/river gray_content.asset
+Dependencies: []

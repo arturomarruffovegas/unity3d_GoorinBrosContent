@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 384440497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cdff1920006e6bfdb975721202a23fef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 258a471ef50d957f4bdf0c04eadc44de
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: bb945db2ba049c3448771d5650f9e40a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Hats/ruby clark/ruby clark_content.asset
+Dependencies: []

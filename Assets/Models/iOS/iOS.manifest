@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 3680719227
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sugar blues_content
+      Dependencies: {}
+    Info_1:
+      Name: sugar blues
+      Dependencies: {}
+    Info_2:
+      Name: benjamin paul_content
+      Dependencies: {}
+    Info_3:
+      Name: slick carter_content
+      Dependencies: {}
+    Info_4:
+      Name: river gray_content
+      Dependencies: {}
+    Info_5:
+      Name: ruby clark_content
+      Dependencies: {}
+    Info_6:
+      Name: the doctor_content
+      Dependencies: {}
+    Info_7:
+      Name: county line_content
+      Dependencies: {}
+    Info_8:
+      Name: trumpet blues_content
+      Dependencies: {}
+    Info_9:
+      Name: county line
+      Dependencies: {}
+    Info_10:
+      Name: river gray
+      Dependencies: {}
+    Info_11:
+      Name: the doctor
+      Dependencies: {}
+    Info_12:
+      Name: benjamin paul
+      Dependencies: {}
+    Info_13:
+      Name: trumpet blues
+      Dependencies: {}
+    Info_14:
+      Name: ruby clark
+      Dependencies: {}
+    Info_15:
+      Name: slick carter
+      Dependencies: {}
+    Info_16:
+      Name: road trip_content
+      Dependencies: {}
+    Info_17:
+      Name: florence lake_content
+      Dependencies: {}
+    Info_18:
+      Name: dean the butcher_content
+      Dependencies: {}
+    Info_19:
+      Name: ruthy_content
+      Dependencies: {}
+    Info_20:
+      Name: old town_content
+      Dependencies: {}
+    Info_21:
+      Name: road trip
+      Dependencies: {}
+    Info_22:
+      Name: ruthy
+      Dependencies: {}
+    Info_23:
+      Name: dean the butcher
+      Dependencies: {}
+    Info_24:
+      Name: florence lake
+      Dependencies: {}
+    Info_25:
+      Name: old town
+      Dependencies: {}

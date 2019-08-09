@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3698813374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2c3c3464c014db043a2631b6af05a67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 258a471ef50d957f4bdf0c04eadc44de
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: bb945db2ba049c3448771d5650f9e40a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Hats/old town/old town_content.asset
+Dependencies: []
