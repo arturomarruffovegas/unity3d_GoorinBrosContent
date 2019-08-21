@@ -9,8 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3616924069647809009}
-  - component: {fileID: 6682187937498420363}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: allison
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34,25 +33,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 15, y: 0, z: 0}
---- !u!95 &6682187937498420363
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 318274118014995426}
-  m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 90f717cf3e185f843a33cbdcd064f7da, type: 3}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &3070062184860354971
 GameObject:
   m_ObjectHideFlags: 0
@@ -64,7 +44,7 @@ GameObject:
   - component: {fileID: 6592439766759639175}
   - component: {fileID: 9025570267111152876}
   - component: {fileID: 7844399868800451395}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hats_allison_tape_natural
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -141,7 +121,7 @@ GameObject:
   - component: {fileID: 8060873792237918730}
   - component: {fileID: 5140432095106916617}
   - component: {fileID: 1974648835357455844}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hats_allison_medal_natural
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -218,7 +198,7 @@ GameObject:
   - component: {fileID: 5703655467110716225}
   - component: {fileID: 5171114113699568972}
   - component: {fileID: 2436447341686671548}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hats_allison_hats_natural
   m_TagString: Untagged
   m_Icon: {fileID: 0}

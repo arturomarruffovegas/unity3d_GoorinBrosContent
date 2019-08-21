@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4468985861788566828}
   - component: {fileID: 524062561917708431}
   - component: {fileID: 2050852057658541558}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hats_theGuilder_tape_navy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -86,8 +86,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1090898151657339169}
-  m_Layer: 0
-  m_Name: the guilder
+  m_Layer: 5
+  m_Name: the gilder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -121,7 +121,7 @@ GameObject:
   - component: {fileID: 3218298129035590820}
   - component: {fileID: 3024318187046629052}
   - component: {fileID: 4777161626350260679}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hats_theGuilder_medal_navy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -198,7 +198,7 @@ GameObject:
   - component: {fileID: 8097967412807060331}
   - component: {fileID: 8441137287259172718}
   - component: {fileID: 8468957854861552070}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hats_theGuilder_hats_navy
   m_TagString: Untagged
   m_Icon: {fileID: 0}

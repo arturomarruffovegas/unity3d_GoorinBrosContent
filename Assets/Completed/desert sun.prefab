@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8351662896378652488}
   - component: {fileID: 2585391683894854815}
   - component: {fileID: 6530308920410196101}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hats_desertSun_hats_natural
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -86,7 +86,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4658002843900773830}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: desert sun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 6757454488464146746}
   - component: {fileID: 1405529158192557492}
   - component: {fileID: 7356032679240726042}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: hats_desertSun_tape_natural
   m_TagString: Untagged
   m_Icon: {fileID: 0}
