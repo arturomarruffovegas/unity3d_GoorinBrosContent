@@ -1,24 +1,9 @@
 fileFormatVersion: 2
-guid: e946b57d2f6a5e64ba5619b6f1cd7699
+guid: aa0cc129849e243498c6aba01f1caa69
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: hats_roster_hats_shader_black
-    second: {fileID: 2100000, guid: 4083318af7eb9ce44927fb01849a0ef4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: hats_roster_inside_shader_black
-    second: {fileID: 2100000, guid: 1f644bc5fbd3f4e4aa89b2f0a9d76652, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: hats_roster_logo_shader_black
-    second: {fileID: 2100000, guid: aa3e2d7144697054f95df984846822ec, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
